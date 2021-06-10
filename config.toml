@@ -33,3 +33,5 @@ weight = 4
 [params]
 email = "mailto:steve@stevenwilkin.com"
 twitter = "https://twitter.com/stevebiscuit"
+linkedin = "https://www.linkedin.com/in/stevenwilkin/"
+github = "https://github.com/stevenwilkin/"
