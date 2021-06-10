@@ -29,3 +29,7 @@ weight = 3
 name = "Archives"
 url = "/archives/"
 weight = 4
+
+[params]
+email = "mailto:steve@stevenwilkin.com"
+twitter = "https://twitter.com/stevebiscuit"
