@@ -1,3 +1,31 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://blog.stevenwilkin.com/"
+languageCode = "en-gb"
+title = "Steven Wilkin"
+theme = "noteworthy"
+googleAnalytics = "UA-2764682-1"
+
+[permalinks]
+post = "/:year/:month/:day/:title/"
+
+[taxonomies]
+category = "category"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 2
+
+[[menu.main]]
+name = "Categories"
+url = "/category/"
+weight = 3
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 4
