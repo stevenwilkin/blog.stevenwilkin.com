@@ -16,19 +16,9 @@ url = "/about/"
 weight = 1
 
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 2
-
-[[menu.main]]
-name = "Categories"
-url = "/category/"
-weight = 3
-
-[[menu.main]]
 name = "Archives"
 url = "/archives/"
-weight = 4
+weight = 2
 
 [params]
 email = "mailto:steve@stevenwilkin.com"
