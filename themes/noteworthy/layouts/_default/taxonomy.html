@@ -1,6 +1,6 @@
 {{ define "main" }}
 <!-- Page that displays after clicking on a post's tag -->
-  <h1>Tagged "{{ .Data.Term }}"</h1>
+  <h1>Filed in "{{ .Data.Term }}"</h1>
   {{range .Pages}}
   
     <!-- Display the posts with the tag -->
@@ -18,6 +18,12 @@
             </div>
             <div class="post-footer">
             <time>{{ .Date.Format "January 2, 2006" }}</time>
+            <!-- Display tags -->
+            {{if .Params.category}}
+                {{ range .Params.category }}
+                    <a class="tag" href="/category/{{ . | urlize }}">#{{.}}</a>
+                {{ end }}
+            {{ end }}
             </div> 
         </article>
     {{ end }}

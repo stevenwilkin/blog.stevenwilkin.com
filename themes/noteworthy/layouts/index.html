@@ -24,9 +24,9 @@
             <time>{{ .Date.Format "January 2, 2006" }}</time>
 
             <!-- Display tags -->
-            {{if .Params.tags}}
-                {{ range .Params.tags }}
-                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+            {{if .Params.category}}
+                {{ range .Params.category }}
+                    <a class="tag" href="/category/{{ . | urlize }}">#{{.}}</a>
                 {{ end }}
             {{ end }}
             </div> 
