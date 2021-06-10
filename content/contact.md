@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: "2008-03-05"
 ---
 
 The best way to contact me is by sending email to `steve` at this domain.

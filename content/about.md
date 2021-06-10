@@ -1,6 +1,5 @@
 ---
 title: "About Steve"
-date: "2008-03-05"
 ---
 
 My name's Steve, I'm 31 years old and I live in [Belfast](http://www.gotobelfast.com/). Some people may know me as "Biscuit" which my friend [Keith](http://skryshof.com/) christened me some years ago: his reasoning for this was good at the time but unfortunately no one can remember the details now ;)
