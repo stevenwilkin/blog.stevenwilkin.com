@@ -1,7 +1,7 @@
 ---
 title: "RPC between Go and Ruby using Protocol Buffers"
 date: "2016-08-29"
-categories: 
+category:
   - "code"
   - "go"
   - "ruby"

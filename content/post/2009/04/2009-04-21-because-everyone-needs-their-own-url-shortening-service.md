@@ -1,7 +1,7 @@
 ---
 title: "Because everyone needs their own URL shortening service"
 date: "2009-04-21"
-categories: 
+category:
   - "code"
   - "rails"
   - "ruby"

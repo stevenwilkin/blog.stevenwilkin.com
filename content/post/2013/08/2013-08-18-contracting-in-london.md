@@ -1,7 +1,7 @@
 ---
 title: "Contracting in London"
 date: "2013-08-18"
-categories: 
+category:
   - "clerical"
   - "ruby"
 ---

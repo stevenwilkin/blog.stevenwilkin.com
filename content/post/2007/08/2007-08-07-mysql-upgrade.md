@@ -1,7 +1,7 @@
 ---
 title: "MySQL upgrade"
 date: "2007-08-07"
-categories: 
+category:
   - "code"
   - "linux"
   - "meta"

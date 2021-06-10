@@ -1,7 +1,7 @@
 ---
 title: "Abbreviated Weight Training"
 date: "2007-01-31"
-categories: 
+category:
   - "training"
 ---
 

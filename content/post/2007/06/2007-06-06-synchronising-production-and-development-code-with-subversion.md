@@ -1,7 +1,7 @@
 ---
 title: "Synchronising production and development code with subversion"
 date: "2007-06-06"
-categories: 
+category:
   - "code"
   - "linux"
   - "tech"

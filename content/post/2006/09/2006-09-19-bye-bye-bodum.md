@@ -1,7 +1,7 @@
 ---
 title: "Bye Bye Bodum"
 date: "2006-09-19"
-categories: 
+category:
   - "nutrition"
   - "obsession"
   - "photo"

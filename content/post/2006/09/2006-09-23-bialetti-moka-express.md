@@ -1,7 +1,7 @@
 ---
 title: "Bialetti Moka Express"
 date: "2006-09-23"
-categories: 
+category:
   - "coffee"
   - "obsession"
   - "photo"

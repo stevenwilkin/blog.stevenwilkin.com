@@ -1,7 +1,7 @@
 ---
 title: "Revolution Now"
 date: "2006-07-03"
-categories: 
+category:
   - "clerical"
   - "linux"
 ---

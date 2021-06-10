@@ -1,7 +1,7 @@
 ---
 title: "# shutdown -h now"
 date: "2008-07-27"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

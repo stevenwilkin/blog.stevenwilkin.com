@@ -1,7 +1,7 @@
 ---
 title: "Ticket to ride - a break from the rat-race in Fermanagh"
 date: "2008-05-28"
-categories: 
+category:
   - "clerical"
   - "photo"
 ---

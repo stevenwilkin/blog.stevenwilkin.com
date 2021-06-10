@@ -1,7 +1,7 @@
 ---
 title: "A dummy datasource for CakePHP"
 date: "2010-02-14"
-categories: 
+category:
   - "code"
   - "php"
 ---

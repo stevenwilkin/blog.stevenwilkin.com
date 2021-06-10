@@ -1,7 +1,7 @@
 ---
 title: "PHP predefined variables on BSD"
 date: "2007-04-03"
-categories: 
+category:
   - "bsd"
   - "code"
   - "linux"

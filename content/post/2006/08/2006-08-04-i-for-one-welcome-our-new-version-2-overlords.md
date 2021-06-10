@@ -1,7 +1,7 @@
 ---
 title: "I For One Welcome Our New Version 2 Overlords"
 date: "2006-08-04"
-categories: 
+category:
   - "clerical"
   - "tech"
 ---

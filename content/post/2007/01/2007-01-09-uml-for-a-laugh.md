@@ -1,7 +1,7 @@
 ---
 title: "UML For A Laugh"
 date: "2007-01-09"
-categories: 
+category:
   - "clerical"
   - "code"
 ---

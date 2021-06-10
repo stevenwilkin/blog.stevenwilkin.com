@@ -1,7 +1,7 @@
 ---
 title: "Nine Inch Nails - Year Zero"
 date: "2007-02-23"
-categories: 
+category:
   - "music"
   - "obsession"
 ---

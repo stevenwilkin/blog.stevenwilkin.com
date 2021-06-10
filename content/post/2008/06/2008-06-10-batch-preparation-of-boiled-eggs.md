@@ -1,7 +1,7 @@
 ---
 title: "Batch preparation of boiled eggs"
 date: "2008-06-10"
-categories: 
+category:
   - "nutrition"
   - "photo"
 ---

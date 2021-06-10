@@ -1,7 +1,7 @@
 ---
 title: "X-Men: The Last Stand"
 date: "2006-06-05"
-categories: 
+category:
   - "movies"
 ---
 

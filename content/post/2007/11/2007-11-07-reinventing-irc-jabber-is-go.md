@@ -1,7 +1,7 @@
 ---
 title: "Reinventing IRC - Jabber is go"
 date: "2007-11-07"
-categories: 
+category:
   - "infurious"
   - "linux"
   - "tech"

@@ -1,7 +1,7 @@
 ---
 title: "Back in Mac"
 date: "2007-10-27"
-categories: 
+category:
   - "infurious"
   - "mac"
 ---

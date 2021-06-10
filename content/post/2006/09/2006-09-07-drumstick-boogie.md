@@ -1,7 +1,7 @@
 ---
 title: "Drumstick Boogie"
 date: "2006-09-07"
-categories: 
+category:
   - "training"
 ---
 

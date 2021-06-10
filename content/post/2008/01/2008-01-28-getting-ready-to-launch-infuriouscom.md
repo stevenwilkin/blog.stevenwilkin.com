@@ -1,7 +1,7 @@
 ---
 title: "Getting ready to launch infurious.com"
 date: "2008-01-28"
-categories: 
+category:
   - "code"
   - "infurious"
 ---

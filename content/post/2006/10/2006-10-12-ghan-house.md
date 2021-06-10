@@ -1,7 +1,7 @@
 ---
 title: "Ghan House"
 date: "2006-10-12"
-categories: 
+category:
   - "clerical"
   - "nutrition"
   - "photo"

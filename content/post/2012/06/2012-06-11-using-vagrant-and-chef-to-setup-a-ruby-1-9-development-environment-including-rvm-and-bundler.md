@@ -1,7 +1,7 @@
 ---
 title: "Using Vagrant and Chef to setup a Ruby 1.9 development environment including RVM and Bundler"
 date: "2012-06-11"
-categories: 
+category:
   - "linux"
   - "mac"
   - "ruby"

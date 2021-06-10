@@ -1,7 +1,7 @@
 ---
 title: "Developer Rehab"
 date: "2009-06-16"
-categories: 
+category:
   - "clerical"
 ---
 

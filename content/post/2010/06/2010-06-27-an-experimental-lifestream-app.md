@@ -1,7 +1,7 @@
 ---
 title: "An experimental lifestream app"
 date: "2010-06-27"
-categories: 
+category:
   - "code"
   - "ruby"
   - "sinatra"

@@ -1,7 +1,7 @@
 ---
 title: "Windows Genuine (?) Advantage"
 date: "2006-06-02"
-categories: 
+category:
   - "m"
 ---
 

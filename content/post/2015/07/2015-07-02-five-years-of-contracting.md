@@ -1,7 +1,7 @@
 ---
 title: "Five years of contracting"
 date: "2015-07-02"
-categories: 
+category:
   - "business"
   - "clerical"
 ---

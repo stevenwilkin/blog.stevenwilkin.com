@@ -1,7 +1,7 @@
 ---
 title: "Site migration"
 date: "2008-01-04"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

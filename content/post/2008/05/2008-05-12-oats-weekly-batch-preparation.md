@@ -1,7 +1,7 @@
 ---
 title: "Oats - weekly batch preparation"
 date: "2008-05-12"
-categories: 
+category:
   - "nutrition"
   - "photo"
 ---

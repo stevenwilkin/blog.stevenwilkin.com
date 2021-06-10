@@ -1,7 +1,7 @@
 ---
 title: "Ruby On Rails"
 date: "2006-10-18"
-categories: 
+category:
   - "code"
   - "linux"
   - "photo"

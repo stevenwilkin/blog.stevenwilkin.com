@@ -1,7 +1,7 @@
 ---
 title: "Ajax: first impressions"
 date: "2007-02-21"
-categories: 
+category:
   - "code"
 ---
 

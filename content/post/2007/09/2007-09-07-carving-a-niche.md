@@ -1,7 +1,7 @@
 ---
 title: "Carving a niche"
 date: "2007-09-07"
-categories: 
+category:
   - "clerical"
   - "geek"
 ---

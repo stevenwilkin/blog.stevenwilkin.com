@@ -1,7 +1,7 @@
 ---
 title: "And So The Legend Grows"
 date: "2006-05-24"
-categories: 
+category:
   - "code"
   - "linux"
   - "meta"

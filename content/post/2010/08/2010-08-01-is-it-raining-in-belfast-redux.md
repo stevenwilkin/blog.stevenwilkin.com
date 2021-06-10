@@ -1,7 +1,7 @@
 ---
 title: "Is it raining in Belfast? Redux"
 date: "2010-08-01"
-categories: 
+category:
   - "code"
   - "ruby"
   - "sinatra"

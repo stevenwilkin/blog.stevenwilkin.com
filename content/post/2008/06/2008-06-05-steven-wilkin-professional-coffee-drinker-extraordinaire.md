@@ -1,7 +1,7 @@
 ---
 title: "Steven Wilkin, professional coffee drinker extraordinaire"
 date: "2008-06-05"
-categories: 
+category:
   - "coffee"
   - "geek"
   - "me"

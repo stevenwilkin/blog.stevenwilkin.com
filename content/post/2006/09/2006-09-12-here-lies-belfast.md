@@ -1,7 +1,7 @@
 ---
 title: "Here Lies Belfast"
 date: "2006-09-12"
-categories: 
+category:
   - "linux"
   - "me"
   - "meta"

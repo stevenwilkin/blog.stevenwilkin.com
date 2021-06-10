@@ -1,7 +1,7 @@
 ---
 title: "mod_python, trac and ubuntu no go"
 date: "2007-10-23"
-categories: 
+category:
   - "infurious"
   - "linux"
   - "tech"

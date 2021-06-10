@@ -1,7 +1,7 @@
 ---
 title: "Amazon.co.uk free super saver delivery"
 date: "2007-02-15"
-categories: 
+category:
   - "books"
 ---
 

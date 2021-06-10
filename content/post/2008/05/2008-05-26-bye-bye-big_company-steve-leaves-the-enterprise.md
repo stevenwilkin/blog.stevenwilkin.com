@@ -1,7 +1,7 @@
 ---
 title: "Bye bye $BIG_COMPANY - Steve leaves the enterprise"
 date: "2008-05-26"
-categories: 
+category:
   - "clerical"
 ---
 

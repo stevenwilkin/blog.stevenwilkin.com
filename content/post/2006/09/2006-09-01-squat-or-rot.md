@@ -1,7 +1,7 @@
 ---
 title: "Squat or Rot"
 date: "2006-09-01"
-categories: 
+category:
   - "me"
   - "training"
 ---

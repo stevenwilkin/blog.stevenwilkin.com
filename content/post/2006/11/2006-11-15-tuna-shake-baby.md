@@ -1,7 +1,7 @@
 ---
 title: "Tuna Shake (Baby!)"
 date: "2006-11-15"
-categories: 
+category:
   - "nutrition"
   - "photo"
   - "training"

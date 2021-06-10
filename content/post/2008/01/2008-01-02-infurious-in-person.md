@@ -1,7 +1,7 @@
 ---
 title: "Infurious in person"
 date: "2008-01-02"
-categories: 
+category:
   - "infurious"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Building the brand - stevenwilkin.com gets a facelift"
 date: "2008-06-12"
-categories: 
+category:
   - "me"
   - "tech"
 ---

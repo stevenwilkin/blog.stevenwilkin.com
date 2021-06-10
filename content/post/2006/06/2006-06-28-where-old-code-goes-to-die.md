@@ -1,7 +1,7 @@
 ---
 title: "Where Old Code goes to Die"
 date: "2006-06-28"
-categories: 
+category:
   - "clerical"
   - "code"
   - "m"

@@ -1,7 +1,7 @@
 ---
 title: "Early Morning Swim"
 date: "2006-11-24"
-categories: 
+category:
   - "obsession"
   - "training"
 ---

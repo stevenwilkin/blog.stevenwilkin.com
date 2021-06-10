@@ -1,7 +1,7 @@
 ---
 title: "BarCamp Belfast 2008 this Saturday"
 date: "2008-06-18"
-categories: 
+category:
   - "geek"
 ---
 

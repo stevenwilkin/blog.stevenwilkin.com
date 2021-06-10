@@ -1,7 +1,7 @@
 ---
 title: "Mashing up Twitter Trends and Google Images"
 date: "2009-09-15"
-categories: 
+category:
   - "code"
   - "ruby"
   - "sinatra"

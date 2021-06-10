@@ -1,7 +1,7 @@
 ---
 title: "XP on Kubuntu via VMware via VNC"
 date: "2006-10-26"
-categories: 
+category:
   - "linux"
   - "screenshot"
   - "tech"

@@ -1,7 +1,7 @@
 ---
 title: "Blogging on Ansible"
 date: "2014-08-10"
-categories: 
+category:
   - "linux"
   - "tech"
   - "web"

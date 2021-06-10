@@ -1,7 +1,7 @@
 ---
 title: "First Post From Kubuntu"
 date: "2006-09-13"
-categories: 
+category:
   - "linux"
   - "tech"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "And There Are No Diamonds In The Mine"
 date: "2006-07-25"
-categories: 
+category:
   - "clerical"
   - "obsession"
 ---

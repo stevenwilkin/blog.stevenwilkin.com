@@ -1,7 +1,7 @@
 ---
 title: "Minder - a simple web-app monitoring tool written in Ruby"
 date: "2010-12-13"
-categories: 
+category:
   - "code"
   - "linux"
   - "ruby"

@@ -1,7 +1,7 @@
 ---
 title: "What, no version control?"
 date: "2008-06-26"
-categories: 
+category:
   - "code"
   - "m"
 ---

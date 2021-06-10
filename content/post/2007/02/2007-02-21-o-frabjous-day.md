@@ -1,7 +1,7 @@
 ---
 title: "O frabjous day!"
 date: "2007-02-21"
-categories: 
+category:
   - "code"
   - "me"
 ---

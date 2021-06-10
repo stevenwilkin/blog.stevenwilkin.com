@@ -1,7 +1,7 @@
 ---
 title: "Pink Is The Colour"
 date: "2006-09-06"
-categories: 
+category:
   - "clerical"
   - "distractions"
   - "music"

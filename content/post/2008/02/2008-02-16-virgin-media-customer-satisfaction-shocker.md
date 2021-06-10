@@ -1,7 +1,7 @@
 ---
 title: "Virgin Media customer satisfaction shocker"
 date: "2008-02-16"
-categories: 
+category:
   - "geek"
 ---
 

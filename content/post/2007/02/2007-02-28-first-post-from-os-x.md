@@ -1,7 +1,7 @@
 ---
 title: "First post from OS X"
 date: "2007-02-28"
-categories: 
+category:
   - "mac"
 ---
 

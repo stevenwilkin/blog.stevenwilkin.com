@@ -1,7 +1,7 @@
 ---
 title: "Finally, after 2 and a half years, my Rails DVD catalogue is go"
 date: "2009-04-16"
-categories: 
+category:
   - "code"
   - "movies"
   - "rails"

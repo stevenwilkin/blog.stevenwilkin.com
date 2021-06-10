@@ -1,7 +1,7 @@
 ---
 title: "Continuing Fitness Fanaticism"
 date: "2006-11-28"
-categories: 
+category:
   - "training"
 ---
 

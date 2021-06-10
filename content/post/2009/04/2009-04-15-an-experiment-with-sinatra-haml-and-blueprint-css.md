@@ -1,7 +1,7 @@
 ---
 title: "An experiment with Sinatra, HAML and Blueprint CSS"
 date: "2009-04-15"
-categories: 
+category:
   - "code"
   - "ruby"
   - "sinatra"

@@ -1,7 +1,7 @@
 ---
 title: "Backing up Delicious bookmarks to CouchDB"
 date: "2011-01-11"
-categories: 
+category:
   - "code"
   - "couchdb"
   - "database"

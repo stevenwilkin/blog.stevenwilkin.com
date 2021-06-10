@@ -1,7 +1,7 @@
 ---
 title: "BarCamp Belfast 2008"
 date: "2008-05-15"
-categories: 
+category:
   - "geek"
 ---
 

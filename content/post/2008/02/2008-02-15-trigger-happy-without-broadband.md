@@ -1,7 +1,7 @@
 ---
 title: "Trigger happy without broadband"
 date: "2008-02-15"
-categories: 
+category:
   - "books"
   - "distractions"
   - "geek"

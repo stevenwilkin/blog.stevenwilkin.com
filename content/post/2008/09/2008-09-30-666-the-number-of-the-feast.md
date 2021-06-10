@@ -1,7 +1,7 @@
 ---
 title: "666: the number of the feast"
 date: "2008-09-30"
-categories: 
+category:
   - "photo"
 ---
 

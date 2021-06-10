@@ -1,7 +1,7 @@
 ---
 title: "New site theme at last"
 date: "2008-02-28"
-categories: 
+category:
   - "meta"
   - "screenshot"
 ---

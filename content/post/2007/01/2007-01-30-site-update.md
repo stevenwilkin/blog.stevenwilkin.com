@@ -1,7 +1,7 @@
 ---
 title: "Site update"
 date: "2007-01-30"
-categories: 
+category:
   - "meta"
   - "tech"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MacServ deployed"
 date: "2007-05-31"
-categories: 
+category:
   - "clerical"
   - "code"
 ---

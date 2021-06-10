@@ -1,7 +1,7 @@
 ---
 title: "ISP style mail server on Debian VPS"
 date: "2008-01-01"
-categories: 
+category:
   - "linux"
   - "tech"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CakePHP 1.2alpha - model validation"
 date: "2007-07-09"
-categories: 
+category:
   - "code"
 ---
 

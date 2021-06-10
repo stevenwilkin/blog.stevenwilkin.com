@@ -1,7 +1,7 @@
 ---
 title: "Is it home time yet?"
 date: "2008-08-12"
-categories: 
+category:
   - "code"
 ---
 

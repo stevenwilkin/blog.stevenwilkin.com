@@ -1,7 +1,7 @@
 ---
 title: "Let Them Eat Cake"
 date: "2006-06-15"
-categories: 
+category:
   - "clerical"
   - "obsession"
 ---

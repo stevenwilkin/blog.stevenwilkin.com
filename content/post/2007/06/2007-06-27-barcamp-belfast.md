@@ -1,7 +1,7 @@
 ---
 title: "BarCamp Belfast"
 date: "2007-06-27"
-categories: 
+category:
   - "geek"
 ---
 

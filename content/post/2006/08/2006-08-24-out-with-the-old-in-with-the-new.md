@@ -1,7 +1,7 @@
 ---
 title: "Out With The Old, In With The New"
 date: "2006-08-24"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

@@ -1,7 +1,7 @@
 ---
 title: "Busted fingers"
 date: "2008-07-31"
-categories: 
+category:
   - "photo"
   - "training"
 ---

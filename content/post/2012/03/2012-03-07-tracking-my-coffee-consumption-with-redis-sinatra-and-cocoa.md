@@ -1,7 +1,7 @@
 ---
 title: "Tracking my coffee consumption with Redis, Sinatra and Cocoa"
 date: "2012-03-07"
-categories: 
+category:
   - "code"
   - "coffee"
   - "objective-c"

@@ -1,7 +1,7 @@
 ---
 title: "5x5 strength training program"
 date: "2009-07-31"
-categories: 
+category:
   - "training"
 ---
 

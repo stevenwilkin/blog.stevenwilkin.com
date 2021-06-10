@@ -1,7 +1,7 @@
 ---
 title: "Simple example of accessing the Twitter REST API with Ruby"
 date: "2008-12-29"
-categories: 
+category:
   - "code"
   - "ruby"
 ---

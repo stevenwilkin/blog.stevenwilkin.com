@@ -1,7 +1,7 @@
 ---
 title: "A minimal Rack app to lookup your external IP address"
 date: "2011-02-20"
-categories: 
+category:
   - "code"
   - "ruby"
   - "web"

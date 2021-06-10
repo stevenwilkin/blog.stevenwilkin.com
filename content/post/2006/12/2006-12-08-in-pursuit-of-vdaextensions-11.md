@@ -1,7 +1,7 @@
 ---
 title: "In Pursuit Of vdaExtensions 1.1"
 date: "2006-12-08"
-categories: 
+category:
   - "clerical"
   - "code"
   - "m"

@@ -1,7 +1,7 @@
 ---
 title: "Change in usenet provider"
 date: "2007-06-19"
-categories: 
+category:
   - "tech"
 ---
 

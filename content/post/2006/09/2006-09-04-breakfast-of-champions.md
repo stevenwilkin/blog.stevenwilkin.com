@@ -1,7 +1,7 @@
 ---
 title: "Breakfast Of Champions"
 date: "2006-09-04"
-categories: 
+category:
   - "nutrition"
   - "training"
 ---

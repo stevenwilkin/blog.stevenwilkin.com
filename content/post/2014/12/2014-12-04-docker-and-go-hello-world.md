@@ -1,7 +1,7 @@
 ---
 title: "Docker and Go Hello World"
 date: "2014-12-04"
-categories: 
+category:
   - "go"
   - "linux"
 ---

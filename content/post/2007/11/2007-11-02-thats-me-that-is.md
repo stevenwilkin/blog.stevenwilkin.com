@@ -1,7 +1,7 @@
 ---
 title: "That's me that is"
 date: "2007-11-02"
-categories: 
+category:
   - "clerical"
   - "photo"
 ---

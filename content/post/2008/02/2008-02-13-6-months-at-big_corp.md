@@ -1,7 +1,7 @@
 ---
 title: "6 months at $BIG_CORP"
 date: "2008-02-13"
-categories: 
+category:
   - "clerical"
 ---
 

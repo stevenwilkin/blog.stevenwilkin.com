@@ -1,7 +1,7 @@
 ---
 title: "New 5RM Deadlift Today"
 date: "2008-02-23"
-categories: 
+category:
   - "training"
 ---
 

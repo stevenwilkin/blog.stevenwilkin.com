@@ -1,7 +1,7 @@
 ---
 title: "New adventures in clerical progression"
 date: "2007-07-30"
-categories: 
+category:
   - "clerical"
 ---
 

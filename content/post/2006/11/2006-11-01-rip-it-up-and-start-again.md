@@ -1,7 +1,7 @@
 ---
 title: "Rip It Up And Start Again"
 date: "2006-11-01"
-categories: 
+category:
   - "code"
   - "meta"
 ---

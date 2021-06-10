@@ -1,7 +1,7 @@
 ---
 title: "Security Enhancements for Dummies"
 date: "2007-01-25"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

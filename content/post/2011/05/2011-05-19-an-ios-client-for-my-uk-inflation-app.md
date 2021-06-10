@@ -1,7 +1,7 @@
 ---
 title: "An iOS client for my UK inflation app"
 date: "2011-05-19"
-categories: 
+category:
   - "code"
   - "objective-c"
   - "screenshot"

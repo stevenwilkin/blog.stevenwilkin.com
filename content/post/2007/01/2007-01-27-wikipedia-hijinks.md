@@ -1,7 +1,7 @@
 ---
 title: "Wikipedia HiJinks"
 date: "2007-01-27"
-categories: 
+category:
   - "distractions"
   - "screenshot"
 ---

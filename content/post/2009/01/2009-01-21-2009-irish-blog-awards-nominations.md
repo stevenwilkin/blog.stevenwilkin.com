@@ -1,7 +1,7 @@
 ---
 title: "2009 Irish Blog Awards Nominations"
 date: "2009-01-21"
-categories: 
+category:
   - "meta"
 ---
 

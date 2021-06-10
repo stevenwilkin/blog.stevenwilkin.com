@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to WebSockets"
 date: "2012-07-26"
-categories: 
+category:
   - "code"
   - "javascript"
   - "talk"

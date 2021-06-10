@@ -1,7 +1,7 @@
 ---
 title: "Blades By Mail"
 date: "2006-11-23"
-categories: 
+category:
   - "obsession"
   - "photo"
 ---

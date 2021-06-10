@@ -1,7 +1,7 @@
 ---
 title: "httpd Log Analysis"
 date: "2006-10-24"
-categories: 
+category:
   - "linux"
   - "meta"
 ---

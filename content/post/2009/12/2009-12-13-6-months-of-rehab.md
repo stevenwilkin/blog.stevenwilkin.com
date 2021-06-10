@@ -1,7 +1,7 @@
 ---
 title: "6 months of Rehab"
 date: "2009-12-13"
-categories: 
+category:
   - "clerical"
   - "photo"
 ---

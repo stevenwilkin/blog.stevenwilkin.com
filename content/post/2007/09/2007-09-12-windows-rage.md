@@ -1,7 +1,7 @@
 ---
 title: "Windows rage"
 date: "2007-09-12"
-categories: 
+category:
   - "clerical"
   - "geek"
 ---

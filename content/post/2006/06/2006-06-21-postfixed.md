@@ -1,7 +1,7 @@
 ---
 title: "Postfix(ed)"
 date: "2006-06-21"
-categories: 
+category:
   - "linux"
   - "meta"
 ---

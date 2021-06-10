@@ -1,7 +1,7 @@
 ---
 title: "Bulk Powders"
 date: "2006-12-14"
-categories: 
+category:
   - "nutrition"
   - "photo"
   - "training"

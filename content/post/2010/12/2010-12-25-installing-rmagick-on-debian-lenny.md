@@ -1,7 +1,7 @@
 ---
 title: "Installing RMagick on Debian Lenny"
 date: "2010-12-25"
-categories: 
+category:
   - "linux"
   - "ruby"
   - "tech"

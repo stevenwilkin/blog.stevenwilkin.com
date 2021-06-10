@@ -1,7 +1,7 @@
 ---
 title: "The pot crack'd"
 date: "2007-04-19"
-categories: 
+category:
   - "coffee"
   - "photo"
 ---

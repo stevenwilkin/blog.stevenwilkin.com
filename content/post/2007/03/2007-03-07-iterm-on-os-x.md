@@ -1,7 +1,7 @@
 ---
 title: "iTerm on OS X"
 date: "2007-03-07"
-categories: 
+category:
   - "mac"
   - "tech"
 ---

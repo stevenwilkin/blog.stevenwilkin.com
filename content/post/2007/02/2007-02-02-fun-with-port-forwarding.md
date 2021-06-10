@@ -1,7 +1,7 @@
 ---
 title: "Fun with port forwarding"
 date: "2007-02-02"
-categories: 
+category:
   - "linux"
   - "screenshot"
   - "tech"

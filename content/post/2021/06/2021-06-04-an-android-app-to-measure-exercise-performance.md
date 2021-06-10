@@ -1,7 +1,7 @@
 ---
 title: "An Android app to measure exercise performance"
 date: "2021-06-04"
-categories: 
+category:
   - "android"
   - "kotlin"
   - "mobile"

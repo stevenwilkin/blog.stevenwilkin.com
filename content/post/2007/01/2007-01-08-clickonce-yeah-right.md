@@ -1,7 +1,7 @@
 ---
 title: "ClickOnce, yeah right"
 date: "2007-01-08"
-categories: 
+category:
   - "clerical"
   - "code"
   - "m"

@@ -1,7 +1,7 @@
 ---
 title: "Home time revisited - redeveloping a CakePHP application with Sinatra"
 date: "2010-03-24"
-categories: 
+category:
   - "code"
   - "javascript"
   - "ruby"

@@ -1,7 +1,7 @@
 ---
 title: "command line history - me too"
 date: "2008-04-16"
-categories: 
+category:
   - "distractions"
   - "geek"
   - "linux"

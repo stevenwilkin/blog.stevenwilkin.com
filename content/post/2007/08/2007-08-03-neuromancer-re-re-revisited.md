@@ -1,7 +1,7 @@
 ---
 title: "Neuromancer re-re-revisited"
 date: "2007-08-03"
-categories: 
+category:
   - "books"
   - "photo"
 ---

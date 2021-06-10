@@ -1,7 +1,7 @@
 ---
 title: "Ninan 1.0.5 on Slackware 11.0"
 date: "2007-01-18"
-categories: 
+category:
   - "linux"
   - "tech"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "BarCamp Cometh"
 date: "2007-06-30"
-categories: 
+category:
   - "geek"
 ---
 

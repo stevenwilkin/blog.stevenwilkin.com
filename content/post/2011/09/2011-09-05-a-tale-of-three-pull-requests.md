@@ -1,7 +1,7 @@
 ---
 title: "A tale of three pull requests"
 date: "2011-09-05"
-categories: 
+category:
   - "geek"
   - "open-source"
 ---

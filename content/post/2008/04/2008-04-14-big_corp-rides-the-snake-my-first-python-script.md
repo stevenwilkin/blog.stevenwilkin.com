@@ -1,7 +1,7 @@
 ---
 title: "$BIG_CORP rides the snake - my first Python script"
 date: "2008-04-14"
-categories: 
+category:
   - "clerical"
   - "code"
   - "distractions"

@@ -1,7 +1,7 @@
 ---
 title: "An iOS client for my Coffee Tracker API"
 date: "2012-05-20"
-categories: 
+category:
   - "code"
   - "coffee"
   - "ios"

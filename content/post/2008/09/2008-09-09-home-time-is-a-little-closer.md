@@ -1,7 +1,7 @@
 ---
 title: "Home time is a little closer"
 date: "2008-09-09"
-categories: 
+category:
   - "code"
 ---
 

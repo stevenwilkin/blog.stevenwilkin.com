@@ -1,7 +1,7 @@
 ---
 title: "A simple service oriented architecture using Ruby and Go"
 date: "2013-12-29"
-categories: 
+category:
   - "code"
   - "go"
   - "ruby"

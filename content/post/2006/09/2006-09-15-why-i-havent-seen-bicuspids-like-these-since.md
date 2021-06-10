@@ -1,7 +1,7 @@
 ---
 title: "Why, I haven't seen bicuspids like these since..."
 date: "2006-09-15"
-categories: 
+category:
   - "me"
   - "photo"
 ---

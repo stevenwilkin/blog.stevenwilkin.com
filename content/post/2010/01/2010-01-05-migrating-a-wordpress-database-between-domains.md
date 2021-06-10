@@ -1,7 +1,7 @@
 ---
 title: "Migrating a WordPress database between domains"
 date: "2010-01-05"
-categories: 
+category:
   - "mysql"
   - "tech"
 ---

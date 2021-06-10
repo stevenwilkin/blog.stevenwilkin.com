@@ -1,7 +1,7 @@
 ---
 title: "Candy And A Currant Bun"
 date: "2006-06-20"
-categories: 
+category:
   - "meta"
 ---
 

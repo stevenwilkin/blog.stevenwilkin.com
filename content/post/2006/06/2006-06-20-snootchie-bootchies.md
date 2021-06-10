@@ -1,7 +1,7 @@
 ---
 title: "Snootchie Bootchies"
 date: "2006-06-20"
-categories: 
+category:
   - "movies"
   - "recovery"
 ---

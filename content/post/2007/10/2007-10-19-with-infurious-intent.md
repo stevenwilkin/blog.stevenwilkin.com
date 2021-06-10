@@ -1,7 +1,7 @@
 ---
 title: "With Infurious Intent"
 date: "2007-10-19"
-categories: 
+category:
   - "infurious"
   - "linux"
   - "tech"

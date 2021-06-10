@@ -1,7 +1,7 @@
 ---
 title: "New Workspace"
 date: "2007-03-23"
-categories: 
+category:
   - "clerical"
   - "photo"
 ---

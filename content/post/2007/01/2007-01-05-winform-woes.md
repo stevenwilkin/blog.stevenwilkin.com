@@ -1,7 +1,7 @@
 ---
 title: "WinForm Woes"
 date: "2007-01-05"
-categories: 
+category:
   - "clerical"
   - "code"
   - "screenshot"

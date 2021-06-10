@@ -1,7 +1,7 @@
 ---
 title: "ASUS Eee PC"
 date: "2007-12-22"
-categories: 
+category:
   - "geek"
   - "linux"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "node-shoutbox - a simple node.js demo"
 date: "2010-03-19"
-categories: 
+category:
   - "code"
   - "javascript"
   - "web"

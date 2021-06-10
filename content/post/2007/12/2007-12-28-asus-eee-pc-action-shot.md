@@ -1,7 +1,7 @@
 ---
 title: "ASUS Eee PC action shot"
 date: "2007-12-28"
-categories: 
+category:
   - "photo"
   - "tech"
 ---

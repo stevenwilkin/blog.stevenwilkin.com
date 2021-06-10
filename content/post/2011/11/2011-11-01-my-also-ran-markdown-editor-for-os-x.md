@@ -1,7 +1,7 @@
 ---
 title: "My also-ran Markdown Editor for OS X"
 date: "2011-11-01"
-categories: 
+category:
   - "business"
   - "code"
   - "mac"

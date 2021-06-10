@@ -1,7 +1,7 @@
 ---
 title: "Decisions, decisions, decisions"
 date: "2013-05-26"
-categories: 
+category:
   - "code"
   - "ios"
   - "objective-c"

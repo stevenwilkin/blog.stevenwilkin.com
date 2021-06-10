@@ -1,7 +1,7 @@
 ---
 title: "First production Rails app"
 date: "2009-02-15"
-categories: 
+category:
   - "code"
   - "rails"
   - "ruby"

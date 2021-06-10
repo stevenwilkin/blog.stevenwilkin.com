@@ -1,7 +1,7 @@
 ---
 title: "Patching CakePHP"
 date: "2007-07-05"
-categories: 
+category:
   - "code"
 ---
 

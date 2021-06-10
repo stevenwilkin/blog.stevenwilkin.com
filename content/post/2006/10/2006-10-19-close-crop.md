@@ -1,7 +1,7 @@
 ---
 title: "Close Crop"
 date: "2006-10-19"
-categories: 
+category:
   - "photo"
 ---
 

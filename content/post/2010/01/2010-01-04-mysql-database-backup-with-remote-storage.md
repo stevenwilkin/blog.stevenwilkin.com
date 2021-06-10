@@ -1,7 +1,7 @@
 ---
 title: "MySQL database backup with remote storage"
 date: "2010-01-04"
-categories: 
+category:
   - "linux"
   - "tech"
 ---

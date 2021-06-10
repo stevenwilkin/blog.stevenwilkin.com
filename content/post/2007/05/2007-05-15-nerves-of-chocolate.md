@@ -1,7 +1,7 @@
 ---
 title: "Nerves of chocolate"
 date: "2007-05-15"
-categories: 
+category:
   - "nutrition"
   - "photo"
 ---

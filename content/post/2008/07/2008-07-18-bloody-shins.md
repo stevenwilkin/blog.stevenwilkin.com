@@ -1,7 +1,7 @@
 ---
 title: "Bloody shins"
 date: "2008-07-18"
-categories: 
+category:
   - "photo"
   - "training"
 ---

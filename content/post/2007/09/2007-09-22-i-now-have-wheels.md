@@ -1,7 +1,7 @@
 ---
 title: "I now have wheels!"
 date: "2007-09-22"
-categories: 
+category:
   - "me"
 ---
 

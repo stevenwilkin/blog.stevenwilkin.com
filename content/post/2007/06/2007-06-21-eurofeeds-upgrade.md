@@ -1,7 +1,7 @@
 ---
 title: "Eurofeeds upgrade"
 date: "2007-06-21"
-categories: 
+category:
   - "tech"
 ---
 

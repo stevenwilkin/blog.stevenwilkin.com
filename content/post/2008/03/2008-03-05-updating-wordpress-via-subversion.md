@@ -1,7 +1,7 @@
 ---
 title: "Updating WordPress via Subversion"
 date: "2008-03-05"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

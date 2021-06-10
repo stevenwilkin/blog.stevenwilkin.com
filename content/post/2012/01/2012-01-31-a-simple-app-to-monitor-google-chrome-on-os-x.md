@@ -1,7 +1,7 @@
 ---
 title: "A simple app to monitor Google Chrome on OS X"
 date: "2012-01-31"
-categories: 
+category:
   - "code"
   - "mac"
   - "objective-c"

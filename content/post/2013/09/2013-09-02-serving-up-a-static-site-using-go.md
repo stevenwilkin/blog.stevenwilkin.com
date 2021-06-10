@@ -1,7 +1,7 @@
 ---
 title: "Serving up a static site using Go"
 date: "2013-09-02"
-categories: 
+category:
   - "business"
   - "code"
   - "go"

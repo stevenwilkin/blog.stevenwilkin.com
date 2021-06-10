@@ -1,7 +1,7 @@
 ---
 title: "Friday Funk"
 date: "2006-12-15"
-categories: 
+category:
   - "linux"
   - "meta"
   - "tech"

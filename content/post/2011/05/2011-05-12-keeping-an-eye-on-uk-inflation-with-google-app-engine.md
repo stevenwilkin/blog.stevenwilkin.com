@@ -1,7 +1,7 @@
 ---
 title: "Keeping an eye on UK inflation with Google App Engine"
 date: "2011-05-12"
-categories: 
+category:
   - "code"
   - "python"
   - "web"

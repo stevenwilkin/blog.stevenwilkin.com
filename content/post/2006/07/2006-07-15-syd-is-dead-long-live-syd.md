@@ -1,7 +1,7 @@
 ---
 title: "Syd is Dead, Long Live Syd"
 date: "2006-07-15"
-categories: 
+category:
   - "music"
 ---
 

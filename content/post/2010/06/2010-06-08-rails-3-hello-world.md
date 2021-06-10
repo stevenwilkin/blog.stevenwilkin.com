@@ -1,7 +1,7 @@
 ---
 title: "Rails 3 Hello World"
 date: "2010-06-08"
-categories: 
+category:
   - "code"
   - "rails"
   - "ruby"

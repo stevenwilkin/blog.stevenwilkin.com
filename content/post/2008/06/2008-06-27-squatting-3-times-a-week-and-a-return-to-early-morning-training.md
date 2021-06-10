@@ -1,7 +1,7 @@
 ---
 title: "Squatting 3 times a week and a return to early morning training"
 date: "2008-06-27"
-categories: 
+category:
   - "photo"
   - "training"
 ---

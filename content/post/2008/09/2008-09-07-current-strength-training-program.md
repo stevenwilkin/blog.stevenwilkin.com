@@ -1,7 +1,7 @@
 ---
 title: "Current strength training program"
 date: "2008-09-07"
-categories: 
+category:
   - "training"
 ---
 

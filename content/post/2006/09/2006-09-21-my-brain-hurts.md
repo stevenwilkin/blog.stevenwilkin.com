@@ -1,7 +1,7 @@
 ---
 title: "My Brain Hurts"
 date: "2006-09-21"
-categories: 
+category:
   - "clerical"
   - "code"
   - "m"

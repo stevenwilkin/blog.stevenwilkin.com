@@ -1,7 +1,7 @@
 ---
 title: "Now streaming Year Zero"
 date: "2007-04-05"
-categories: 
+category:
   - "music"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "I made this"
 date: "2007-04-25"
-categories: 
+category:
   - "distractions"
   - "photo"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Now With Filter Coffee!"
 date: "2007-01-15"
-categories: 
+category:
   - "clerical"
   - "coffee"
   - "photo"

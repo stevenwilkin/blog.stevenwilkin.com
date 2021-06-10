@@ -1,7 +1,7 @@
 ---
 title: "Infurious Update"
 date: "2007-12-18"
-categories: 
+category:
   - "code"
   - "infurious"
 ---

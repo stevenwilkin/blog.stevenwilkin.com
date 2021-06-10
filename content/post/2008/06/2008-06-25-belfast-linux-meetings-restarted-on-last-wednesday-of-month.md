@@ -1,7 +1,7 @@
 ---
 title: "Belfast Linux meetings restarted on last Wednesday of month"
 date: "2008-06-25"
-categories: 
+category:
   - "geek"
   - "linux"
 ---

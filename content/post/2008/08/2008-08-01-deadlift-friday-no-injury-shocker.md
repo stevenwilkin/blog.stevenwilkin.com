@@ -1,7 +1,7 @@
 ---
 title: "Deadlift Friday - no injury shocker"
 date: "2008-08-01"
-categories: 
+category:
   - "training"
 ---
 

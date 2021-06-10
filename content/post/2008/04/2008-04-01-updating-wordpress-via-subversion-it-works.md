@@ -1,7 +1,7 @@
 ---
 title: "Updating WordPress via Subversion: it works!"
 date: "2008-04-01"
-categories: 
+category:
   - "linux"
   - "tech"
 ---

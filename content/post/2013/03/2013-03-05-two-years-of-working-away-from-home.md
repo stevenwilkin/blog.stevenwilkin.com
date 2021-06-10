@@ -1,7 +1,7 @@
 ---
 title: "Two years of working away from home"
 date: "2013-03-05"
-categories: 
+category:
   - "clerical"
   - "ruby"
 ---

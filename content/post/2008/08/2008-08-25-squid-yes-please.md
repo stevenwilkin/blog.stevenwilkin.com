@@ -1,7 +1,7 @@
 ---
 title: "Squid? Yes please!"
 date: "2008-08-25"
-categories: 
+category:
   - "nutrition"
   - "photo"
 ---

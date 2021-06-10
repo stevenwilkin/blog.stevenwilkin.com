@@ -1,7 +1,7 @@
 ---
 title: "An introduction to Sinatra"
 date: "2012-03-27"
-categories: 
+category:
   - "code"
   - "ruby"
   - "sinatra"

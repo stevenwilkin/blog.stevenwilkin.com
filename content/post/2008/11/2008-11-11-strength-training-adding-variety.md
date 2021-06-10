@@ -1,7 +1,7 @@
 ---
 title: "Strength training: adding variety"
 date: "2008-11-11"
-categories: 
+category:
   - "training"
 ---
 

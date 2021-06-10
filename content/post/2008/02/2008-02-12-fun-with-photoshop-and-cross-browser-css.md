@@ -1,7 +1,7 @@
 ---
 title: "Fun with Photoshop and cross-browser CSS"
 date: "2008-02-12"
-categories: 
+category:
   - "code"
   - "infurious"
 ---

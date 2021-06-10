@@ -1,7 +1,7 @@
 ---
 title: "Barely Legal"
 date: "2006-09-14"
-categories: 
+category:
   - "distractions"
   - "obsession"
   - "photo"

@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics"
 date: "2007-10-09"
-categories: 
+category:
   - "meta"
   - "tech"
 ---

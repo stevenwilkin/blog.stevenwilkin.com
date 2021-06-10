@@ -1,7 +1,7 @@
 ---
 title: "Secret Santa"
 date: "2006-12-20"
-categories: 
+category:
   - "clerical"
   - "coffee"
   - "photo"

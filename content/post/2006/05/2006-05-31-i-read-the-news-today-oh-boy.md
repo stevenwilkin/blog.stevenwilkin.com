@@ -1,7 +1,7 @@
 ---
 title: "I Read The News Today Oh, Boy"
 date: "2006-05-31"
-categories: 
+category:
   - "me"
 ---
 
