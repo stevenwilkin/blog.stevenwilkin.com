@@ -21,7 +21,7 @@ url = "/archives/"
 weight = 2
 
 [params]
-email = "mailto:steve@stevenwilkin.com"
+email = ""
 twitter = "https://twitter.com/stevebiscuit"
 linkedin = "https://www.linkedin.com/in/stevenwilkin/"
 github = "https://github.com/stevenwilkin/"
