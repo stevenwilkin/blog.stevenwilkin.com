@@ -36,4 +36,4 @@ The quickstart guide gave me a skeleton site to which I added the post files. A 
 
 Running `hugo` generated the assets which were then deployed onto a VM running Nginx using `rsync`. Easy.
 
-The content of this post and the rest of the blog are now found on [GitHub](https://github.com/stevenwilkin/blog.stevenwilkin.com).
+The content of this post and the rest of the blog are now found on [GitHub](https://github.com/stevenwilkin/stevenwilkin.com).

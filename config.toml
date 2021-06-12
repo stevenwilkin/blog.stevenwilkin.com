@@ -1,4 +1,4 @@
-baseURL = "http://blog.stevenwilkin.com/"
+baseURL = "http://stevenwilkin.com/"
 languageCode = "en-gb"
 title = "Steven Wilkin"
 theme = "noteworthy"

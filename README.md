@@ -1,4 +1,4 @@
-# blog.stevenwilkin.com
+# stevenwilkin.com
 
 My personal blog
 
@@ -18,5 +18,5 @@ $ hugo
 Sync to web server:
 
 ```sh
-$ rsync -av public/ blog.stevenwilkin.com:/var/www/blog.stevenwilkin.com/
+$ rsync -av public/ stevenwilkin.com:/var/www/stevenwilkin.com/
 ```
