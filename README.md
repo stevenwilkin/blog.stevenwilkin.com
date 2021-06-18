@@ -4,7 +4,7 @@ My personal blog
 
 ## Prerequisites
 
-* [Hugo](https://gohugo.io/)
+* [Hugo-extended](https://gohugo.io/)
 
 ## Publishing content
 
