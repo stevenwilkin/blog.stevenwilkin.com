@@ -4,7 +4,7 @@ date: "2006-06-28"
 category:
   - "clerical"
   - "code"
-  - "m"
+  - windows
 ---
 
 Well, I've started a million different projects and finished none, so in an effort to quell the sense of dis-ease I've went back to whatever seemed nearest to completion before I abandoned it...

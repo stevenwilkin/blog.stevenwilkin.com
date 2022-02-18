@@ -5,7 +5,7 @@ category:
   - "clerical"
   - "code"
   - "screenshot"
-  - "m"
+  - windows
 ---
 
 I've been finishing off the next release of vdaExtensions seemingly forever and have had all the functionality sorted out for ages and without much in the way of trouble but I've been struggling with the user interface. The only contents of my main form are a MenuStrip and the meat of the app, a DataGridView.

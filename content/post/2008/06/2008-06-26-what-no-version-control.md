@@ -3,7 +3,7 @@ title: "What, no version control?"
 date: "2008-06-26"
 category:
   - "code"
-  - "m"
+  - windows
 ---
 
 $WEB\_CORP has taken on the maintenance contract of a particular site and the client has asked for some changes to be made along with fixing up some [SQL injection vulnerabilities](http://en.wikipedia.org/wiki/SQL_injection).

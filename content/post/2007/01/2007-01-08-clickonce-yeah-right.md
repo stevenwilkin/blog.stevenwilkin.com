@@ -4,7 +4,7 @@ date: "2007-01-08"
 category:
   - "clerical"
   - "code"
-  - "m"
+  - windows
 ---
 
 I've just committed vdaExtensions 1.1 to SVN: I had had enough of stressing out about minor aspects of the user interface and just went for it and published the application. Only to discover that [ClickOnce](http://en.wikipedia.org/wiki/ClickOnce) wasn't working on the target desktops, doh!

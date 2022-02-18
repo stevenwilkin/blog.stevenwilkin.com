@@ -5,7 +5,7 @@ category:
   - "linux"
   - "screenshot"
   - "tech"
-  - "m"
+  - windows
 ---
 
 I finally got around to doing something today that I had been meaning to do since I got [Kubuntu installed](/2006/09/13/first-post-from-kubuntu/) on my home desktop, namely, setting up a [virtual machine](http://en.wikipedia.org/wiki/Virtual_machine) running Windows XP so I can perform DVD encoding/editing/authoring. I'm a relative novice when it comes to these techniques and I haven't put enough effort into finding the equivalent native Linux applications, so it is a case of better the devil you know for the foreseeable future. If I ever gather any significant skills in Linux application development I would love to create ports of the almighty [VobBlanker](http://jsoto.posunplugged.com/vobblanker.htm) and the venerable [IfoEdit](http://www.ifoedit.com/). As for [DVD ReBuilder Pro](http://dvd-rb.dvd2go.org/) and [Cinema Craft Encoder](http://www.cinemacraft.com/eng/sp.html), one step at a time, eh?

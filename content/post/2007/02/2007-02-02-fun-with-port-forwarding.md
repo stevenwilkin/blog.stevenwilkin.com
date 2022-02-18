@@ -5,7 +5,7 @@ category:
   - "linux"
   - "screenshot"
   - "tech"
-  - "m"
+  - windows
 ---
 
 I've been having great fun with tunneling connections through SSH lately and today it dawned on me that I could close another hole in my firewall by connecting to my Jabber server via a tunnel. In the past, when I've been working remotely, I've made changes to my firewall by connecting to my public-facing machine; from there to my desktop machine through a DMZ\-pinhole and once a presence has been established within the "green zone" browsing to the routers web-interface with `lynx`.

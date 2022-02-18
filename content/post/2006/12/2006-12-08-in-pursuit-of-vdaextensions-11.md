@@ -4,7 +4,7 @@ date: "2006-12-08"
 category:
   - "clerical"
   - "code"
-  - "m"
+  - windows
 ---
 
 ![Blurred Code - C#](/wp-content/uploads/2006/12/blurred_code.jpg)The past fortnight has proved fruitful: each weekday I have risen early, went to the gym and spent the rest of the day at the office plugging away in Visual Studio. It's been good to get back into developing [vdaExtensions](/2006/08/09/its-alive/): it's first incarnation was completed in August and I asked a few members of staff to try it out and [Phil](http://philipadamson.blogspot.com/) was the only one to give me feedback, I don't know if anyone else even used it! I made a note of his suggestions and then proceeded to work on something else, the nature of which escapes me at this moment.

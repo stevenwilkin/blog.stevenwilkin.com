@@ -4,7 +4,7 @@ date: "2006-09-21"
 category:
   - "clerical"
   - "code"
-  - "m"
+  - windows
 ---
 
 I've just finished hacking new features into a web-app my colleague Kev developed. Yep, I was deep into M$ country but as always nothing beats the sense of satisfaction that problem solving brings (for me anyways.)

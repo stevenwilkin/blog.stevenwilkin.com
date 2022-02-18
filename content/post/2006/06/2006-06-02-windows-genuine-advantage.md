@@ -2,7 +2,7 @@
 title: "Windows Genuine (?) Advantage"
 date: "2006-06-02"
 category:
-  - "m"
+  - windows
 ---
 
 I made the mistake of blindly installing all the Windows Updates on my machine at work yesterday and so installed the lastest version of Windows Genuine Advantage... When I was creating a Ghost image for of our new desktops I didn't have access to our legitimate Volume License Code and so just used a pirated one, big mistake!
